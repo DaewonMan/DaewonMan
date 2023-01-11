@@ -1,4 +1,4 @@
-K Worker ~~(<p style="color:gray; opacity: 0.5;">부품</p>)~~
+K Worker ~~(부품)~~
 ----------------------------
 ### 보통 직장인 개발자
 
