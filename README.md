@@ -1,4 +1,4 @@
-K Worker ~~(<span style="color:gray; opacity: 0.5;">Word up</span>부품)~~
+K Worker ~~(<p style="color:gray; opacity: 0.5;">부품</p>)~~
 ----------------------------
 ### 보통 직장인 개발자
 
